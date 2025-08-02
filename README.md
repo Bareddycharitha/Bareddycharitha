@@ -18,7 +18,7 @@
   - **TATA Group (Forage)**
   - **AWS Cloud Architecture Solutions (Forage)**
 - 🌱 Next up: Exploring **Machine Learning algorithms** and **Data Science tools**
-- 📫 Contact me at: `bareddy.charitha@example.com` *(replace with your email if you want it public)*
+- 📫 Contact me at: `charithabareddy@gmail.com` *(replace with your email if you want it public)*
 
 ---
 
