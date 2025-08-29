@@ -13,7 +13,7 @@
 
 - 🎯 **Aspiring Machine Learning Engineer**
 - 🐍 Currently learning **Python** and exploring its capabilities in ML & automation
-- 💡 Built a fun mini project – **Love Calculator using Python**
+- 💡 Built a fun mini project – **random password generator,to do menu list with interface**
 - 🏢 Completed **virtual internships** from:
   - **TATA Group (Forage)**
   - **AWS Cloud Architecture Solutions (Forage)**
@@ -39,7 +39,6 @@
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| 💖 **Love Calculator** | A fun Python mini project that calculates compatibility between two names. | Python |
 | ☁️ **AWS Cloud Architecture** *(Virtual Internship)* | Hands-on learning of cloud architecture, deployment and AWS services. | AWS, Cloud Design |
 | 🏢 **TATA Data Insights** *(Virtual Internship)* | Explored data analysis and business solutions using real-world scenarios. | Excel, Python, Strategy |
 
